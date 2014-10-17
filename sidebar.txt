@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cwd:home|Door43 (cwd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cwd|d43-cwd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cwd/archive/master.zip|d43-cwd.zip]]
+
+**Recent Changes**
+{{changes>ns = cwd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cwd|Ethnologue data]]
+
